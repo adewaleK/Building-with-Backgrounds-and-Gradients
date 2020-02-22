@@ -85,7 +85,9 @@ body{
     background-color: #ffffff;
     padding-top: 12px;
   }
-  
+
+ 
+
   .footer-box1{
     float: left;
     margin-left: 184px;
@@ -94,9 +96,43 @@ body{
   .footer-box1 p{
     font-size: 10px;
     font-family: "Lucida Grande", "Lucida Sans Unicode",Helvetica, Arial, Verdana, sans-serif;
+    color:#6e6e6e;
   
   }
+
+  .footer-box1 a{
+      color: #0088cc;
+      text-decoration: none;
+  }
+
+  .footer-box1 p a:hover{
+    text-decoration: underline;
+}
+
+  .footer-box1 a:hover{
+    color: #0088cc;
+    text-decoration: none;
+}
+
+
+  .footer-box1 p{
+    padding-left: 7px;
+    
+ }
+
+ .footer-box1 p a{
+    padding-right: 3px;
+ }
+
+
+  .footer-box1 p a span{
+   border-left:1px solid #ccc;
+   padding-left: 7px;
+   padding-right: 10px;
   
+ }
+
+
   .footer-box2{
     margin-top: -5px;
     margin-left: -15px;
@@ -104,6 +140,9 @@ body{
     font-family: "Lucida Grande", "Lucida Sans Unicode",Helvetica, Arial, Verdana, sans-serif;
   }
 
+  .footer-box2 ul li a:hover{
+    text-decoration: underline;
+}
 
   
   ul li{
@@ -115,12 +154,18 @@ body{
     padding-right: 7px;
     padding-left: 7px;
     font-size:10px;
-    border-right: 1px solid gray;
+    border-right: 1px solid #ccc;
     font-family: "Lucida Grande", "Lucida Sans Unicode",Helvetica, Arial, Verdana, sans-serif;
   }
 
   .footer-box2 ul li:last-child{
     border-right:none;
+  }
+
+  .footer-box2 li a{
+    color: #0088cc;
+    text-decoration: none;
+
   }
   
   
