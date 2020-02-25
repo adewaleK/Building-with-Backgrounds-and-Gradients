@@ -167,6 +167,47 @@ body{
     text-decoration: none;
 
   }
+
+  .nav{
+      display: flex;
+      width: 980px;
+      height: 30px;
+      background: url(/web/20140301004259im_/http://images.apple.com/global/nav/images/globalnav_text.png) no-repeat 50% 0;
+      border: 1px solid red;
+      position: relative;
+      left: 188px;
+      top: 110px;
+  }
+
+  .what{
+    margin-top: 150px;
+    background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/your_verse_title_small.png) no-repeat 50% 0;
+    background-size: cover;
+    height: 104px;
+    margin-left: 230px;
+    margin-right: 230px;
+    width: 980px;
+  }
+
+  .everyone{
+    background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/your_verse_subhead_small.png) no-repeat 50% 0;
+    background-size: cover;
+    height:82px ;
+    width: 980px;
+    margin-left: 230px;
+    margin-right: 230px;
+
+  }
+
+  .watch{
+    background: url(https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/cta_your_verse_27pt.png) no-repeat 50% 0;
+    background-size: cover;
+    height:64px ;
+    width: 980px;
+    margin-left: 230px;
+    margin-right: 230px;
+    margin-top: 30px;
+  }
   
   
   
