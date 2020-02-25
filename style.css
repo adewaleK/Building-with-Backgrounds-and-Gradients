@@ -171,9 +171,9 @@ body{
   .nav{
       display: flex;
       width: 980px;
-      height: 30px;
-      background: url(/web/20140301004259im_/http://images.apple.com/global/nav/images/globalnav_text.png) no-repeat 50% 0;
-      border: 1px solid red;
+      height: 35px;
+      background: linear-gradient(#aaaaaa, #555555, #555555);
+      border-radius: 5px;
       position: relative;
       left: 188px;
       top: 110px;
