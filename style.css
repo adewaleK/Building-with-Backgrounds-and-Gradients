@@ -60,24 +60,28 @@ body{
     background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5s.jpg");
     background-size: cover;
     border-right: 2px solid #ffffff;
+    cursor: pointer;
   }
   
   .feature2{
     background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_iphone5c.jpg");
     background-size: cover;
     border-right: 2px solid #ffffff;
+    cursor: pointer;
   }
   
   .feature3{
     background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_30_years.jpg");
     background-size: cover;
     border-right: 2px solid #ffffff;
+    cursor: pointer;
   
   }
   
   .feature4{
     background-image: url("https://web.archive.org/web/20140301004610im_/http://images.apple.com/home/images/promo_supplier_responsibility.jpg");
     background-size: cover;
+    cursor: pointer;
   }
   
   footer{
@@ -164,6 +168,11 @@ body{
     border-right:none;
   }
 
+  .footer-box2 ul li:last-child a img{
+    margin-top:-2px;
+    
+  }
+
   .footer-box2 li a{
     color: #0088cc;
     text-decoration: none;
@@ -192,6 +201,23 @@ body{
     width: 13%;
   }
 
+  .nav-logo{
+    margin-left: 45px;
+    margin-top: 30px;
+    position: relative;
+    top: 5px;
+  }
+
+  input{
+    width:70%;
+    border-radius: 10px;
+    margin-top: 7px;
+    background: linear-gradient(#aaaaaa, #555555, #555555);
+    border: 1px solid rgb(78, 75, 75);
+    padding: 2px 0;
+    background: url('images/search-new.PNG') no-repeat
+  }
+
   .nav-elements>div:last-child{
     border-right:none;
     padding-left: 0;
@@ -203,12 +229,19 @@ body{
     border-radius: 5px;
   }
 
+  .special:hover{
+    background: linear-gradient(#aaaaaa, #555555, #555555); 
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+
   .nav-elements>div:hover{
     background-color: rgb(61, 49, 49);
     background: linear-gradient(rgb(61, 49, 49), #555555, rgb(61, 49, 49));
     background: linear-gradient(rgb(61, 49, 49), rgb(61, 49, 49), rgb(61, 49, 49));
-    background: linear-gradient(#777676, #383737, #383737); 
-      
+    background: linear-gradient(#777676, #383737, #383737);  
+    
   }
 
   .nav-elements>div a{
@@ -262,6 +295,11 @@ body{
     margin-left: 230px;
     margin-right: 230px;
     margin-top: 30px;
+  }
+
+  .watch:hover{
+    text-decoration: underline;
+    
   }
   
   
