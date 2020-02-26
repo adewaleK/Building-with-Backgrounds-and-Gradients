@@ -38,6 +38,7 @@ body{
       background: #b2b2b2
       url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero_2x.jpg") 0px 100% no-repeat;
       background-size: cover;
+      cursor: pointer;
   
   }
   
@@ -52,6 +53,7 @@ body{
     height: 206px;
     float: left;
     box-sizing: border-box;
+
   }
   
   .feature1{
@@ -168,7 +170,7 @@ body{
 
   }
 
-  .nav{
+  .nav-elements{
       display: flex;
       width: 980px;
       height: 35px;
@@ -178,6 +180,59 @@ body{
       left: 188px;
       top: 110px;
   }
+
+  .nav-elements>div{
+    height: 35px;
+    border-right: 1px solid rgb(78, 75, 75);
+    
+  }
+
+
+  .common-width{
+    width: 13%;
+  }
+
+  .nav-elements>div:last-child{
+    border-right:none;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .nav-elements>div:last-child:hover{
+    background: linear-gradient(#aaaaaa, #555555, #555555); 
+    border-radius: 5px;
+  }
+
+  .nav-elements>div:hover{
+    background-color: rgb(61, 49, 49);
+    background: linear-gradient(rgb(61, 49, 49), #555555, rgb(61, 49, 49));
+    background: linear-gradient(rgb(61, 49, 49), rgb(61, 49, 49), rgb(61, 49, 49));
+    background: linear-gradient(#777676, #383737, #383737); 
+      
+  }
+
+  .nav-elements>div a{
+    color: #ffffff;
+    font-size: 12px;
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin: 3px auto;
+    padding-bottom: 0;
+    cursor: pointer;
+  }
+
+  .nav-elements>div a{
+    
+    cursor: pointer;
+  }
+
+  .nav-elements>div p{
+    
+    margin: 5px auto;
+    text-align: center;
+  }
+
+  
 
   .what{
     margin-top: 150px;
