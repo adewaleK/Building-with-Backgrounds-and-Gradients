@@ -215,7 +215,8 @@ body{
     background: linear-gradient(#aaaaaa, #555555, #555555);
     border: 1px solid rgb(78, 75, 75);
     padding: 2px 0;
-    background: url('images/search-new.PNG') no-repeat
+    background: url('images/search-new.PNG') no-repeat;
+    margin-left: 15px;
   }
 
   .nav-elements>div:last-child{
