@@ -42,13 +42,13 @@ body{
   
   }
   
-  section{
+  .highlight{
     height: 206px;
     width: 100%;
     padding-top: 2px;
   }
   
-  section>div{
+  .highlight>div{
     width: 25%;
     height: 206px;
     float: left;
