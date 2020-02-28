@@ -1,20 +1,19 @@
-# Project Name
+# Building with Backgrounds and Gradients
 
-> One paragraph statement about the project.
+> This project consists of building a webpage using images as a background and adding gradients to elements.
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+The goal of the project is to demonstate the idea of building with background images and gradient by making a clone of old an old version of the Apple website webpage.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,CSS
+- Visual Studio Code Editor
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/adewaleK/Building-with-Backgrounds-and-Gradients/development/index.html)
 
 
 ## Getting Started
@@ -41,17 +40,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **adewaleK**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/adewaleK)
+- Twitter: [@twitterhandle](https://twitter.com/KamiluAdewale)
+- Linkedin: [linkedin](https://linkedin.com/in/kamilu-adewale-64ab73197/)
 
-👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -69,6 +64,4 @@ Give a ⭐️ if you like this project!
 - Inspiration
 - etc
 
-## 📝 License
 
-This project is [MIT](lic.url) licensed.
