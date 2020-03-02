@@ -2,7 +2,9 @@
 
 > This project consists of building a webpage using images as a background and adding gradients to elements.
 
-![screenshot](./app_screenshot.png)
+## Screenshot
+![apple-screenshot](https://user-images.githubusercontent.com/51028241/75717046-af2aeb80-5cd0-11ea-96a0-41ede948a650.jpg)
+
 
 The goal of the project is to demonstate the idea of building with background images and gradient by making a clone of old an old version of the Apple website webpage.
 
