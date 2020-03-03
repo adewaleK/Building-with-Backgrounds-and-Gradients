@@ -353,23 +353,10 @@ body{
     font-weight: normal;
     margin-right: 0;
 
-  }
-
-
-  .watch:hover{
-    text-decoration: underline;input
-    
-
-  }
-
-  
-  .play-btn {
+  } .watch:hover{
+    text-decoration: underline;
+  }.play-btn {
     display:inline-block;
     height: 30px;
     width: 30px;
-    vertical-align: middle;
-  }
-  
-  
-  
-  
+    vertical-align: middle; }
