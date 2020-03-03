@@ -235,7 +235,8 @@ body{
     padding-top: 2px;
     padding-left: 15px;
     color: #fff;
-    background-image: url("images/search-new.png");
+    /*background-image: url("images/search-new.png"); */
+    background-image: url(https://www.queryly.com/images/whitesearchicon.png);
     background-repeat: no-repeat;
     background-position: 5px;
     background-size: 15px;
