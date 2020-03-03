@@ -231,8 +231,9 @@ body{
     margin-top: 7px;
     background: linear-gradient(#aaaaaa, #555555 , #555555);
     transition: all 0.3s ease-in-out;   
-    border: 1px solid rgb(78, 75, 75);
-    padding-top: 2px;
+    border: 1px solid #4e4b4b;
+    padding-top: 3px;
+    padding-bottom: 3px;
     padding-left: 15px;
     color: #fff;
     /*background-image: url("images/search-new.png"); */
