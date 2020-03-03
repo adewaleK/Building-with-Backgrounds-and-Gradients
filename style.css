@@ -229,7 +229,7 @@ body{
     width:70%;
     border-radius: 10px;
     margin-top: 7px;
-    background: linear-gradient(#aaaaaa, #555555 , #555555);
+    /*background: linear-gradient(#aaaaaa, #555555 , #555555);*/
     
     border: 1px solid rgb(78, 75, 75);
     padding-top: 2px;
@@ -345,7 +345,7 @@ body{
 
 
   .watch:hover{
-    text-decoration: underline;
+    text-decoration: underline;input
     
   }
   
