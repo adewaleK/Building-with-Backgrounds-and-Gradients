@@ -130,7 +130,7 @@ ul li {
   display: flex;
   width: 980px;
   height: 35px;
-  background: linear-gradient(#aaaaaa, #555555, #555555);
+  background: linear-gradient(#aaa, #555, #555);
   border-radius: 5px;
   margin-top: 5%;
 }
@@ -151,7 +151,7 @@ input {
   width: 100px;
   border-radius: 10px;
   margin-top: 7px;
-  background: linear-gradient(#aaaaaa, #555555, #555555);
+  background: linear-gradient(#aaa, #555, #555);
   transition: all 0.3s ease-in-out;
   border: 1px solid #4e4b4b;
   padding-top: 3px;
@@ -166,9 +166,9 @@ input {
   margin-right: 10px;
 }
 input[type=text]:focus {
-  background-color: #ffffff;
+  background-color: #fff;
   width: 160px;
-  color: #000000;
+  color: #000;
   background-image: url("images/f-search.png");
   background-position: 5px;
   background-size: 15px;
@@ -180,22 +180,22 @@ input[type=text]:focus {
   padding-right: 0;
 }
 .nav-elements>div:last-child:hover {
-  background: linear-gradient(#aaaaaa, #555555, #555555);
+  background: linear-gradient(#aaa, #555, #555);
   border-radius: 5px;
 }
 .special:hover {
-  background: linear-gradient(#aaaaaa, #555555, #555555);
+  background: linear-gradient(#aaa, #555, #555);
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 }
 .nav-elements>div:hover {
   background-color: rgb(61, 49, 49);
-  background: linear-gradient(rgb(61, 49, 49), #555555, rgb(61, 49, 49));
+  background: linear-gradient(rgb(61, 49, 49), #555, rgb(61, 49, 49));
   background: linear-gradient(rgb(61, 49, 49), rgb(61, 49, 49), rgb(61, 49, 49));
   background: linear-gradient(#777676, #383737, #383737);
 }
 .nav-elements>div a {
-  color: #ffffff;
+  color: #fff;
   font-size: 12px;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-decoration: none;
