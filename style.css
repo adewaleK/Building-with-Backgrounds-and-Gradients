@@ -31,15 +31,15 @@ body {
 }
 .highlight .feature1 {
   background-size: cover;
-  border-right: 2px solid #ffffff;
+  border-right: 2px solid #fff;
   cursor: pointer;
 }
 .highlight .feature2 {
-  border-right: 2px solid #ffffff;
+  border-right: 2px solid #fff;
   cursor: pointer;
 }
 .highlight .feature3 {
-  border-right: 2px solid #ffffff;
+  border-right: 2px solid #fff;
   cursor: pointer;
 }
 .highlight .feature4 {
@@ -70,14 +70,14 @@ footer {
   color: #6e6e6e;
 }
 .footer-box1 a {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
 .footer-box1 p a:hover {
   text-decoration: underline;
 }
 .footer-box1 a:hover {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
 .footer-box1 p {
@@ -117,7 +117,7 @@ ul li {
   margin-top: -2px;
 }
 .footer-box2 li a {
-  color: #0088cc;
+  color: #08c;
   text-decoration: none;
 }
 .nav {
@@ -241,7 +241,7 @@ input[type=text]:focus {
 .watch p a {
   font-size: 20px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
-  color: #ffffff;
+  color: #fff;
   text-decoration: none;
   font-weight: normal;
   margin-right: 0;
