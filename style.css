@@ -8,11 +8,13 @@ body {
   width: 1340px;
   margin: 0 auto;
 }
+
 .image_area {
   width: 1200px;
   height: 542px;
   background: #b2b2b2 url("https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero_2x.jpg") 0 100% no-repeat;
 }
+
 .img-bg {
   width: 100%;
   height: 539px;
@@ -20,32 +22,39 @@ body {
   background-size: cover;
   cursor: pointer;
 }
+
 .highlight {
   display: flex;
   width: 1340px;
   padding-top: 2px;
 }
-.highlight>div {
+
+.highlight > div {
   width: 25%;
   height: 206px;
   float: left;
 }
+
 .highlight .feature1 {
   background-size: cover;
   border-right: 2px solid #fff;
   cursor: pointer;
 }
+
 .highlight .feature2 {
   border-right: 2px solid #fff;
   cursor: pointer;
 }
+
 .highlight .feature3 {
   border-right: 2px solid #fff;
   cursor: pointer;
 }
+
 .highlight .feature4 {
   cursor: pointer;
 }
+
 .highlight a {
   width: 25%;
 }
@@ -53,6 +62,7 @@ body {
   width: 100%;
   height: 100%;
 }
+
 footer {
   display: flex;
   justify-content: center;
@@ -61,56 +71,66 @@ footer {
   padding: 3% 0 1% 0;
   border: none;
 }
+
 .footer-box1 {
   width: 480px;
   margin-top: -25px;
 }
+
 .footer-box1 p {
   font-size: 10px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
   color: #6e6e6e;
 }
+
 .footer-box1 a {
   color: #08c;
   text-decoration: none;
 }
-.footer-box1 p a:hover {
-  text-decoration: underline;
-}
+
 .footer-box1 a:hover {
   color: #08c;
   text-decoration: none;
 }
-.footer-box1 p {
-  padding-left: 7px;
-}
+
 .footer-box1 p a {
   padding-right: 3px;
 }
+
+.footer-box1 p a:hover {
+  text-decoration: underline;
+}
+
+.footer-box1 p {
+  padding-left: 7px;
+}
+
 .footer-box1 p a span {
   border-left: 1px solid #ccc;
   padding-left: 7px;
   padding-right: 10px;
 }
+
 .footer-box2 {
   margin-top: -60px;
   width: 580px;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
+
 .footer-box2 ul li a:hover {
   text-decoration: underline;
 }
+
 ul li {
   float: left;
   list-style-type: none;
-}
-ul li {
   padding-right: 7px;
   padding-left: 7px;
   font-size: 10px;
   border-right: 1px solid #ccc;
   font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
 }
+
 .footer-box2 ul li:last-child {
   border-right: none;
 }
