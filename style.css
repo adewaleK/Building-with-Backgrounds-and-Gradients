@@ -253,7 +253,7 @@ input[type=text]:focus {
   margin-right: 0;
 }
 
-.nav-elements>div p {
+.nav-elements > div p {
   margin: 5px auto;
   text-align: center;
 }
